@@ -1,4 +1,5 @@
 (function() {
+  
   var monster = (function() {
     /*!
      * cookie-monster - a simple cookie library
